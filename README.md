@@ -1,2 +1,2 @@
-# Dating-Profile-C-
+# Dating-Profile-C++
 Code Academy Project C++
